@@ -1,4 +1,4 @@
-# 🕵️‍♂️ AInsights: Frequency-Domain AI Image Detector
+# 🕵️‍♂️ Frequency-Domain AI Image Detector
 > **Catching AI by the invisible math it leaves behind.**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -144,4 +144,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
